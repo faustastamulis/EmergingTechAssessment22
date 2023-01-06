@@ -1,29 +1,37 @@
-# JupyterLite Demo
+# EmergingTechAssessment
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+This is my Github Repository to the assessment that I must complete for the 2022 Emerging Technology module. My name is Faustas Tamulis (G00373028@atu.ie).
+I am a final year full-time student at ATU(Atlantic Technological University).
+The topics covered in this assessment are as follows:
+*  Github Pages
+*  JupyterLite
+*  Computation
+*  Fourier-Transform
+*  Quantum Computing
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+## Part 1: Github Pages
 
-## ✨ Try it in your browser ✨
 
-➡️ **https://jupyterlite.github.io/demo**
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
-## Requirements
+## Part 2: JupyterLite
 
-JupyterLite is being tested against modern web browsers:
 
-- Firefox 90+
-- Chromium 89+
 
-## Deploy your JupyterLite website on GitHub Pages
 
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
+## Part 3: Computation
 
-## Further Information and Updates
 
-For more info, keep an eye on the JupyterLite documentation:
 
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+
+## Part 4: Fourier-Transform
+
+
+
+
+## Part 5: Quantum Computing
+
+
+
+
+## Refrences:
