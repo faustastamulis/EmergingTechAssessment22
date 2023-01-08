@@ -9,6 +9,8 @@ The topics covered in this assessment are as follows:
 *  Quantum Computing
 
 ## Part 1: Github Pages
+![alt text](https://i.ytimg.com/vi/2MsN8gpT6jY/maxresdefault.jpg)
+
 A static site hosting service offered by GitHub is called GitHub Pages. It enables you to use GitHub as the hosting platform to freely host a static website or web application online. You can host a personal blog, a project documentation website, or a collection of your work using GitHub Pages.
 
 You must first build a repository on GitHub and submit the files for your website or web application there in order to use GitHub Pages. Your website or web application will then be created by GitHub Pages, published, and made accessible online at a URL that GitHub provides.
@@ -26,9 +28,13 @@ The static site generators Jekyll, Hugo, and Gatsby, as well as simple HTML, CSS
 * It is a bit unusual to use a branch for something totally different.
 
 ### Hugo
+![alt text](https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg)
+
 Go-based Hugo is a well-known open-source static site generator. It may be used to create a variety of websites, including blogs, project documentation, and e-commerce sites. It is quick and simple to use. Hugo converts source text written in a number of formats, including as Markdown and AsciiDoc, into static HTML pages by using templates written in the Go HTML template language. Support for custom content types, taxonomies, and shortcodes, as well as the capability to create a site with a single command, are some of the capabilities of Hugo.[2]
 
 ## Part 2: JupyterLite
+![alt text](https://miro.medium.com/max/1000/1*UY4k_mgLml9uvyo_EKMdFA.png)
+
 A web-based variation of the open-source Jupyter Notebook, Jupyter Lite enables you to create and share documents with live code, equations, visualizations, and explanatory text. Jupyter Lite may be accessed from any device with a web browser and is made to be compact and simple to use.[3]
 
 Jupyter Lite has a number of features, such as:
@@ -44,6 +50,8 @@ Jupyter Lite has a number of features, such as:
 * Elements that facilitate collaboration, like the capacity to share and work on notebooks with others.
 
 ## Part 3: Computation
+![alt text](https://i.ytimg.com/vi/jHoEjvuPoB8/maxresdefault.jpg)
+
 Using a computer or another device to carry out calculations or solve problems is referred to as computation. It is a fundamental concept in computer science and involves processing data using algorithms and data structures.
 
 Numerous issues, including mathematical calculations, data analysis, simulations, and machine learning tasks, can be resolved via computation. It is a crucial element in many branches of science, engineering, and commerce, and it is employed in data analysis, forecasting, and decision-making.
@@ -64,6 +72,8 @@ Many different electronic gadgets, such as computers, phones, and other consumer
 Data processing, communication, and control are just a few of the many functions that traditional circuits are utilized for. They are employed in a wide range of disciplines, such as physics, electrical engineering, and computer science.[7]
 
 ## Part 4: Fourier-Transform
+![alt text](https://i.ytimg.com/vi/D3fjGYzrExk/maxresdefault.jpg)
+
 A mathematical method called the Fourier transform is used to break down a function or signal into its component frequencies. It is an effective technique utilized in many different disciplines, including as physics, engineering, and computer science.
 
 The Fourier transform may translate a function or signal from the time domain to the frequency domain and vice versa. This is only one of its many useful qualities. The frequencies that make up a signal are separated from one another in the frequency domain, making it frequently simpler to study and modify them.
@@ -85,6 +95,8 @@ We also take an in-depth look at some
 * And much more[9]
 
 ## Part 5: Quantum Computing
+![alt text](https://miro.medium.com/max/1200/1*CQPNQqE4X2Jh5XomWQrWQQ.png)
+
 A sort of computing known as quantum computing is based on the ideas of quantum mechanics, a physics theory that explains how matter and energy behave at the atomic and subatomic scales. Quantum computers manipulate data using quantum-mechanical phenomena like superposition and entanglement.
 
 Due to the special characteristics of quantum mechanics, quantum computers have the ability to solve some types of problems much quicker than classical computers. For instance, whereas parallel computations can be done with conventional computers, they are not conceivable with quantum computers. Since they can factor large numbers and explore huge databases, they are particularly well-suited for specific jobs.
